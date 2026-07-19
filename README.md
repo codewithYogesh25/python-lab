@@ -25,6 +25,12 @@ Welcome to my learning Python journey ! This project serves as a documentation o
 ## 💻 How to Run
 To run any of these files on your local machine:
 1. Ensure you have **Python** installed on your system.
+2. ## 💻 How to Run
+To run any of these files on your local machine:
+
+Clone this repository: 
+   ```bash
+   git clone [https://github.com/codewithYogesh25/python-lab.git](https://github.com/codewithYogesh25/python-lab.git)
 ---
 *Happy Coding! 🚀 Connect with me:* 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yogesh87678)
