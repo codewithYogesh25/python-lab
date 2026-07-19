@@ -1,5 +1,5 @@
 # 🐍 Python Programming Journey
-Welcome to my learning repository! This project serves as a documentation of my journey in mastering Python programming, laying the foundation for my future path in Data Science and software development.
+Welcome to my learning Python journey ! This project serves as a documentation of my journey in mastering Python programming, laying the foundation for my future path in Data Science and software development.
 ## 📂 Repository Overview
 
 | Project | Description | Status |
