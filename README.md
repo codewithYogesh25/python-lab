@@ -25,6 +25,6 @@ Welcome to my learning Python journey ! This project serves as a documentation o
 ## 💻 How to Run
 To run any of these files on your local machine:
 1. Ensure you have **Python** installed on your system.
-2. Clone this repository:
-   ```bash
-   git clone [yahan-apna-link-daalein]
+---
+*Happy Coding! 🚀 Connect with me:* 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yogesh87678)
