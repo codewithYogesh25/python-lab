@@ -1,5 +1,5 @@
 # 🐍 Python Programming Journey
-Welcome to my learning Python journey ! This project serves as a documentation of my journey in mastering Python programming, laying the foundation for my future path in Data Science and software development.
+Welcome to my learning Python journey! This project serves as a documentation of my journey in mastering Python programming, laying the foundation for my future path in Data Science and software development.
 ## 📂 Repository Overview
 
 | Project | Description | Status |
@@ -22,15 +22,31 @@ Welcome to my learning Python journey ! This project serves as a documentation o
 - [ ] File Handling
 - [ ] Object-Oriented Programming (OOPs)
 - [ ] Data Science Libraries (NumPy, Pandas, etc.)
-## 💻 How to Run
-To run any of these files on your local machine:
-1. Ensure you have **Python** installed on your system.
-2. ## 💻 How to Run
-To run any of these files on your local machine:
+## How to Run
 
-Clone this repository: 
-   ```bash
-   git clone [https://github.com/codewithYogesh25/python-lab.git](https://github.com/codewithYogesh25/python-lab.git)
+1. Ensure Python is installed.
+
+2. Clone the repository:
+
+```bash
+      git clone https://github.com/codewithYogesh25/python-lab.git
+```
+
+3. Go to the project folder:
+
+```bash
+cd python-lab
+```
+
+4. Run the program:
+
+```bash
+ Python 01_for_loops.py
+```
+      
+
+
+
 ---
 *Happy Coding! 🚀 Connect with me:* 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yogesh87678)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yogesh87678)
